@@ -10,7 +10,7 @@ The system focuses on:
 4.  Evaluation
 while addressing real-world challenges such as class imbalance and subjective labeling in media bias datasets.
 
-# bjectives
+# Objectives
 Detect and classify media bias from news text
 Compare traditional ML models with transformer-based architectures
 Address class imbalance using data-level techniques
